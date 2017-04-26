@@ -11,7 +11,7 @@
 @implementation ZJSayHello
 
 - (void)sayHello{
-    NSLog(@"ZJSDKDemo-ZJSayHello-Hello");
+    NSLog(@"ZJSDKDemo-ZJSayHello-Hello-Public");
 }
 
 @end
